@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard_MVC",
+    "\\DevCard_MVC\\Views",
+    "\\DevCard_MVC\\Views\\Shared"
   ],
-  "SelectedNode": "\\DevCard_Project.sln",
+  "SelectedNode": "\\DevCard_MVC\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
