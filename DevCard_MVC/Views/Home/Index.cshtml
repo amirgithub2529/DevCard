@@ -37,7 +37,7 @@
 
 @*<partial name="Projects"/>*@
 @*@await Html.PartialAsync(partialViewName: "Projects")*@
-@await Html.PartialAsync(partialViewName: "Projects" , Model.Projects)
+@await Html.PartialAsync(partialViewName: "Projects" , new List<Project>())
 
 <div class="container">
     <hr>
